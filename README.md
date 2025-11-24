@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hey, I'm <span style="color:#00eaff">Karthik Ganesh</span></h1>
+﻿<h1 align="center">👋<Hey, I'm <span style="color:#00eaff">Karthik Ganesh</span></h1>
 <h3 align="center">AI/ML Developer • Embedded Systems Explorer • Creator of GANA-AI</h3>
 
 <p align="center">
